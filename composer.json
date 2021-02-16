@@ -22,7 +22,7 @@
     ],
     "require": {
         "php":                              "~7.0",
-        "doctrine/common":                  ">=2.2",
+        "doctrine/common":                  ">=3.0",
         "behat/transliterator":             "~1.0"
     },
     "require-dev": {
